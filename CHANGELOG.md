@@ -1,3 +1,6 @@
+## Release 1.0.1
+* Fixed a broken link in README.md.
+
 ## Release 1.0.0
 
 ### Features
