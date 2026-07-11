@@ -50,7 +50,7 @@ This project is dual-licensed to accommodate both open-source development and co
 2. **Commercial License**: **REQUIRED** for proprietary, closed-source, commercial applications and enterprise software. If you cannot disclose your app's source code under the GPLv3 copyleft terms, you must purchase a Commercial License.
 
 For pricing, licensing terms, and acquisition, please visit:</br>
-🔗 https://inphinit.space/flutter_attribution_plugin
+🔗 https://inphinit.space/flutter-attribution-plugin
 
 ### Contact for Commercial Licenses:
 📩 **inphinit.dev@gmail.com**
