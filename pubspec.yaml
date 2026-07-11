@@ -1,0 +1,27 @@
+name: flutter_attribution_plugin
+description: Flutter plugin providing access to Apple Search Ads Attribution Token (iOS) and Google Play Install Referrer URL (Android).
+version: 1.0.0
+
+homepage: https://inphinit.space/flutter-attribution-plugin
+repository: https://github.com/Du6rovsky/flutter_attribution_plugin
+issue_tracker: https://github.com/Du6rovsky/flutter_attribution_plugin/issues
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+  flutter: '>=3.3.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+
+flutter:
+  plugin:
+    platforms:
+      android:
+        package: space.inphinit.flutter_attribution_plugin
+        pluginClass: FlutterAttributionPlugin
+      ios:
+        pluginClass: FlutterAttributionPlugin
