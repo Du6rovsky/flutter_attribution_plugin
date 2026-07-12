@@ -1,5 +1,8 @@
+## Release 1.0.2
+* Added topics to pubspec
+
 ## Release 1.0.1
-* Fixed a broken link in README.md.
+* Fixed a broken link in README.md
 
 ## Release 1.0.0
 

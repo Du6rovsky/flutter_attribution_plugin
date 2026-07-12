@@ -4,7 +4,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'flutter_attribution_plugin'
-  s.version          = '1.0.1'
+  s.version          = '1.0.2'
   s.summary          = 'A lightweight Flutter plugin for accessing native mobile attribution data'
   s.description      = <<-DESC
 Flutter plugin providing access to Apple Search Ads Attribution Token (iOS).
