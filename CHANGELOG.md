@@ -1,3 +1,6 @@
+## Release 1.0.3
+* License changed to MIT
+
 ## Release 1.0.2
 * Added topics to pubspec
 

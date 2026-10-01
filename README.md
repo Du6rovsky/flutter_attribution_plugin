@@ -4,7 +4,7 @@ A lightweight Flutter plugin for accessing native mobile attribution data
 
 - 🍏 **Apple Search Ads Attribution Token** (iOS 14.3+)
 - 🤖 **Google Play Install Referrer URL** (Android)
-- ⚖️ **Dual licensing** (GPL-3.0-only + Commercial)
+- ⚖️ **MIT license**
 
 No AppsFlyer, Adjust, Branch or other third-party attribution SDKs required
 
@@ -42,16 +42,10 @@ if (Platform.isIOS) {
 - Google Play Install Referrer provides attribution data only for installs originating from Google Ads
 - Official Android Docs for Install Referrer API: https://developer.android.com/reference/com/android/installreferrer/api/package-summary
 
-## 📄 License & Commercial Use
+## 📄 License
+This project is distributed under the terms of the MIT license
 
-This project is dual-licensed to accommodate both open-source development and commercial products:
-
-1. **GPL-3.0-only**: Free to use **ONLY** for open-source applications. If your app's source code is public and under a compatible open-source license, you can use this plugin for free.
-2. **Commercial License**: **REQUIRED** for proprietary, closed-source, commercial applications and enterprise software. If you cannot disclose your app's source code under the GPLv3 copyleft terms, you must purchase a Commercial License.
-
-For pricing, licensing terms, and acquisition, please visit:</br>
-🔗 https://inphinit.space/flutter-attribution-plugin
-
-### Contact for Commercial Licenses:
+### Need help integrating it?
+I can integrate it into your application
 📩 **inphinit.dev@gmail.com**
 
